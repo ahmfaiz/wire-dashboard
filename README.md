@@ -8,7 +8,7 @@
   <a href="https://opensource.org/">
     <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love" />
   </a>
-  <a href="https://opensource.org/licenses/gpl-3.0/">
+  <a href="https://opensource.org/license/gpl-3.0/">
     <img src="https://img.shields.io/badge/license-GPLv3-blue" alt="License" />
   </a>
 </div>
