@@ -13,6 +13,6 @@
   </a>
 </div>
 
-<img src="https://i.imgur.com/waxVImv.png" alt="Web Dashboard" />
+![](https://i.imgur.com/waxVImv.png)
 
 <h1>Web Dashboard</h1>
