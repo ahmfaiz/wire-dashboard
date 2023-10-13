@@ -16,3 +16,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <h1>Web Dashboard</h1>
+
+
+# Contributors
+[Nitin kumar jha](https://github.com/nitin611)
