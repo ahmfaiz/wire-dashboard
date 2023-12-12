@@ -19,7 +19,16 @@
 
 <h1>Web Dashboard</h1>
 
+
 # Contributers
 [Nitin kumar jha](https://github.com/nitin611)
+
+=======
+
+# Contributors
+[Nitin kumar jha](https://github.com/nitin611)
+
+[Md_Faizan](https://github.com/mdfaizan79)
+
 
 
