@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h3>Part of:</h3>
   <img width="150" src="https://github.com/ahmfaiz/wire-scraper/blob/main/wire-logo-rounded-small.png" alt="wire-logo" />
@@ -19,7 +17,8 @@
 
 <h1>Web Dashboard</h1>
 
-# Contributers
+
+# Contributors
 [Nitin kumar jha](https://github.com/nitin611)
 
-
+[Md_Faizan](https://github.com/mdfaizan79)
